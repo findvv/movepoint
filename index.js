@@ -95,5 +95,5 @@ module.exports = function (num, scale) {
         result = movePointLeft(str1, -scale);
     }
     result = hasFh ? ('-' + result) : result;
-    return Number(result);
+    return result;
 }

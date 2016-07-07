@@ -1,6 +1,6 @@
 {
   "name": "sm-movepoint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "小数点移动相应位置",
   "main": "index.js",
   "scripts": {
